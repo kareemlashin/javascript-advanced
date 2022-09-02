@@ -1,0 +1,1 @@
+[https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript]

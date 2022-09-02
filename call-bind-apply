@@ -1,0 +1,10 @@
+var obj = {
+  x: 81,
+  getX: function() {
+    return this.x;
+  }
+};
+
+alert(obj.getX.bind(obj)());
+alert(obj.getX.call(obj));
+alert(obj.getX.apply(obj));
